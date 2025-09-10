@@ -1,5 +1,6 @@
 # Обучение с учителем
 ## Описание проектов
+Данные проекты были выполнены в ходе изучения темы "Обучение с учителем".
 Название| Описание проекта | Используемые библиотеки
 -|-|-
 [Отток клиентов](https://github.com/Alexander8841/learning_with_a_teacher/tree/main/customer_churn)|Прогнозирование оттока клиентов банка|pandas, numpy, matplotlib, scikit-learn, imbalanced-learn
